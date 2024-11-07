@@ -7,11 +7,11 @@
 
 1. Clone o repositório
 
-	*  Use o comando: `https://github.com/UnifelDesenvolvimentoWeb/vanillaChallengesJS.git`
+	*  Use o comando: `https://github.com/MarcleyRosa/brain-code.git`
 
 * Entre na pasta do repositório que você acabou de clonar:
 
-	*  `cd vanillaChallengesJS`
+	*  `cd brain-code`
 
 2. Instale as dependências
 
