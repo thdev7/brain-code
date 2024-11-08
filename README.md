@@ -7,7 +7,7 @@
 
 1. Clone o repositório
 
-	*  Use o comando: `https://github.com/MarcleyRosa/brain-code.git`
+	*  Use o comando: `git clone https://github.com/MarcleyRosa/brain-code.git`
 
 * Entre na pasta do repositório que você acabou de clonar:
 
