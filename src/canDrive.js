@@ -1,9 +1,9 @@
 function canDrive(age) {
   if(age >= 18){
-    console.log(`"Você pode dirigir."`);
+    console.log("Você pode dirigir.");
     
   } else {
-    console.log(`"Você não pode dirigir."`)
+    console.log("Você não pode dirigir.")
   }
 }
 
